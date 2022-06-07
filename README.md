@@ -1,2 +1,2 @@
 # tmwesley.github.io
-My technical writing profile
+My technical writing portfolio
